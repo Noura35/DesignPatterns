@@ -1,3 +1,7 @@
+strategy pattern :
+
+<img src="https://www.tutorialspoint.com/design_pattern/images/strategy_pattern_uml_diagram.jpg">
+
 exp1 :
 
 ![Capture d’écran du 2024-09-11 18-41-15 (copie)](https://github.com/user-attachments/assets/618894a7-36e7-4b76-a0e5-61a2036fb24d)

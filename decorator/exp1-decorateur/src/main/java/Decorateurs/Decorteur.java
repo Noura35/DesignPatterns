@@ -1,3 +1,5 @@
+package Decorateurs;
+
 import composants.Boisson;
 
 public abstract class Decorteur extends Boisson {
